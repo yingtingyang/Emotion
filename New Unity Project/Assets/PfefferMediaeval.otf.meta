@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4660c0106b6a2a041a91217d82ffb076
+timeCreated: 1487179068
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pfeffer Medi?val
+  fontNames:
+  - Pfeffer Medi?val
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
